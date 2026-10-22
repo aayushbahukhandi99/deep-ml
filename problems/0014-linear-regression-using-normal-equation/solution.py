@@ -9,4 +9,7 @@ def linear_regression_normal_equation(X, y) -> torch.Tensor:
     X_t = torch.as_tensor(X, dtype=torch.float)
     y_t = torch.as_tensor(y, dtype=torch.float).reshape(-1,1)
     # Your implementation here
-    pass
+    
+    theta = torch.linalg.pinv(X_t)@y_t
+
+    return torch.round(theta.squeeze()*10000)/10000
