@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:53:49.963Z",
+  "generated_at": "2026-10-25T16:18:53.425Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,6 +286,19 @@
       "last_pushed_at": "2026-10-25T15:53:50.891Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-10-25T16:18:54.254Z",
+      "last_pushed_at": "2026-10-25T16:18:54.254Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
