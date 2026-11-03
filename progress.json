@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:15:09.041Z",
+  "generated_at": "2026-11-03T04:16:36.941Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -793,6 +793,19 @@
       "last_pushed_at": "2026-11-03T04:15:07.919Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-11-03T04:16:36.306Z",
+      "last_pushed_at": "2026-11-03T04:16:36.306Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
