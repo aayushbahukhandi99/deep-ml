@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 63 problems · 0 labs · 0 math
+**64** solved · 64 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-10-31 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-22 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-31 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-11-03 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-10-25 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-02 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-11-02 | [solution](problems/0086-detect-overfitting-or-underfitting) |
